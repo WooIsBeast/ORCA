@@ -96,4 +96,10 @@ position:absolute;
             box-shadow: none;
   }
 }
+@media screen and (max-width:1024px) and (orientation:landscape) {
+  .transition {
+    -webkit-transform: skewX(-30deg) translateX(-50px);
+            transform: skewX(-47deg) translateX(-50px);
+  }
+}
 /*# sourceMappingURL=trans.css.map */
