@@ -7,8 +7,9 @@ position:absolute;
           transform: skewX(-30deg) translateX(-50px);
   transition:2s all ease-in-out;
   -webkit-transition:2s all ease-in-out;
+  overflow:hidden;
 }
-}
+
 
 .anim-trans {
   -webkit-animation: anim 4s ease-in-out;
