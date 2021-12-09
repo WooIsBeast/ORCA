@@ -10,10 +10,10 @@ html {
 }
 .transition {
     position:absolute;
-    height:500%;
+    height:100%;
     width:30%;
     background:#d6d6d6;
-    transform: skewX(-5deg) translateX(-50px);
+    transform: skewX(-20deg) translateX(-50px);
     transition:2s all ease-in-out;
     -webkit-transition:2s all ease-in-out;
   }
@@ -31,7 +31,7 @@ html {
    width:100%;z-index:11; box-shadow: 10px 10px 5px #eaeaea;}
        80%   { transform: skewX(1deg) translateX(-100%);
    width:60%;z-index:11; box-shadow: 10px 10px 5px #eaeaea;}
-       500%   { transform: skewX(-5deg) translateX(-50px);
+       100%   { transform: skewX(-5deg) translateX(-50px);
    width:30%;z-index:1; box-shadow: none;}
   }
 
