@@ -10,13 +10,12 @@ html {
 }
 .transition {
     position:absolute;
-    height:200vh;
+    height:100%;
     width:30%;
     background:#d6d6d6;
     transform: skewX(-5deg) translateX(-50px);
     transition:2s all ease-in-out;
     -webkit-transition:2s all ease-in-out;
-    overflow:hidden;
   }
 
   .anim-trans {
@@ -36,8 +35,3 @@ html {
    width:30%;z-index:1; box-shadow: none;}
   }
 
-@media screen and (max-width:1024px){
-    * {
-    overflow:hidden;
-    }
-}
