@@ -250,8 +250,5 @@ html.is-animating .transition-fade {
         -ms-flex-pack: end;
             justify-content: end;
   }
-  .about-section {
-    overflow: unset;
-  }
 }
 /*# sourceMappingURL=style.css.map */
