@@ -101,5 +101,8 @@ position:absolute;
     -webkit-transform: skewX(-30deg) translateX(-50px);
             transform: skewX(-49deg) translateX(-50px);
   }
+  html {
+  overflow:hidden;
+  }
 }
 /*# sourceMappingURL=trans.css.map */
