@@ -1,7 +1,7 @@
 .transition {
   position: absolute;
-  height: 10%;
-  width: 10%;
+  height: 50%;
+  width: 50%;
   background: #d6d6d6;
   -webkit-transform: skewX(-50deg) translateX(-50px);
           transform: skewX(-50deg) translateX(-50px);
