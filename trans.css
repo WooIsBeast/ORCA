@@ -3,8 +3,7 @@
   height: 50%;
   width: 50%;
   background: #d6d6d6;
-  -webkit-transform: skewX(-50deg) translateX(-50px);
-          transform: skewX(-50deg) translateX(-50px);
+  transform: skewX(-5deg) translateX(-50px);
   transition: 2s all ease-in-out;
   -webkit-transition: 2s all ease-in-out;
 }
